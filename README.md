@@ -1,6 +1,9 @@
-![dino](dino.gif)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=bchase-humana.visitor-badge "center")
+
+|.|.|.|
+| | ![dino](dino.gif) | |
+| | ![visitors](https://visitor-badge.glitch.me/badge?page_id=bchase-humana.visitor-badge) | |
+| | | |
 
 ### Hi there 👋
 
