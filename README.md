@@ -1,14 +1,9 @@
+![dino](dino.gif)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=bchase-humana.visitor-badge)
 
-
-| . | . | . |
-|---|---|---|---|
-| | ![dino](dino.gif) | |
-| | ![visitors](https://visitor-badge.glitch.me/badge?page_id=bchase-humana.visitor-badge) | |
-| | | |
 
 ### Hi there 👋
 
-<!--
 **bchase-humana/bchase-humana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -21,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
