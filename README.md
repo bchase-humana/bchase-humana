@@ -1,3 +1,5 @@
+![dino](dino.gif)
+
 ### Hi there 👋
 
 <!--
